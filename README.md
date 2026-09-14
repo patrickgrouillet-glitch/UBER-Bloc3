@@ -26,3 +26,15 @@ pandas numpy scikit-learn matplotlib plotly
 ## Code d'Exécution
 jupyter notebook : Projet UBER.ipynb
 (temps d'exécution total : moins d'une minute sur mon poste)
+
+##  Traitement
+
+### Fusion des fichiers pour obtenir une seule base de données
+### Exclusion des outliers
+### Visualisation globale des volumes par créneaux horaires jour par jour
+### Clustérisation par méthode du coude et de la silhouette
+### Visualisation des points chauds en fonction du jour et de l'heure
+
+
+
+
