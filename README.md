@@ -1,5 +1,7 @@
 # Projet UBER Pickups - CDSD - Bloc3
 
+<img width="250" height="250" alt="Logo UBER EATS" src="https://github.com/user-attachments/assets/052d04d5-60a5-4ec8-9a1d-867a3d9a937b" />
+
 **Auteur :** Patrick GROUILLET - JEDHA BOOTCAMP - DAFS-FT-17
 
 **Objectif :** Prédire les points chauds de prise en charge UBER-EATS à New-York par clustering non-supervisé, 
