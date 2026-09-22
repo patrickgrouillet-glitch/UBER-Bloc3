@@ -34,7 +34,7 @@ jupyter notebook : Projet UBER.ipynb
 ### Fusion des fichiers pour obtenir une seule base de données
 ### Exclusion des outliers
 ### Visualisation globale des volumes par créneaux horaires jour par jour
-### Clustérisation par méthode du coude et de la silhouette
+### Clusterisation par méthode du coude et de la silhouette
 ### Visualisation des points chauds en fonction du jour et de l'heure
 
 
