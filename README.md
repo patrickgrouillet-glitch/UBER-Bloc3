@@ -37,9 +37,9 @@ jupyter notebook : Projet UBER.ipynb
 ### Clusterisation par méthode du coude et de la silhouette
 ### Visualisation des points chauds en fonction du jour et de l'heure
 
-# Conclusions
+## Conclusions
 
-## Interprétation :
+### Interprétation :
 
 KMeans fournit une partition géographique exhaustive utile pour la répartition uniforme de la flotte
 DBSCAN identifie les vraies zones denses de pickups et isole les zones périphériques comme bruit
@@ -48,12 +48,12 @@ La densité des pickups varie fortement selon les jours et les heures :
 ce qu'un chauffeur doit voir à 18h00 un vendredi dans les quartiers de Midtown, Williamsburg ou Downtown
 n'est pas identique à ce qu'il doit voir un lundi dans les quartiers des aéroports JFK ou La Guardia
 
-## Recommandation : combiner les deux :
+### Recommandation : combiner les deux :
 
 KMeans pour la vue stratégique 24h
 DBSCAN pour la vue tactique en temps réel (avec mise à jour toutes les 15 minutes sur fenêtre glissante)
 
-## Perspectives envisageables :
+### Perspectives envisageables :
 
 Métrique haversine plutôt qu'euclidienne standardisée (DBSCAN avec metric='haversine' sur radians)
 afin de tenir compte de l’allure sphérique de la Terre
