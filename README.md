@@ -37,7 +37,7 @@ jupyter notebook : Projet UBER.ipynb
 ### Clusterisation par méthode du coude et de la silhouette
 ### Visualisation des points chauds en fonction du jour et de l'heure
 
-### Conclusions
+# Conclusions
 
 ## Interprétation :
 
